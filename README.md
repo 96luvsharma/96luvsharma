@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @96luvsharma
+- 👋 Hi, I’m Luv Sharma
 - 👀 I’m interested in Finance and Python!(Some experience with Linux, Manjaro KDE.)
 - 🌱 I’m currently learning Finance from Universita Degli Studi di Siena (MSc. Finance)
 - 💞️ I’m looking to collaborate on any projects on Finance(Fundamental Analysis, Technical Analysis, Portfolio Optimization, Financial Modelling) 
